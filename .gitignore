@@ -1,0 +1,9 @@
+/build*/
+/output/
+/scratch/
+
+# Local editor configuration, preserved on disk.
+/.clangd
+/.project
+/.cproject
+/.settings/
